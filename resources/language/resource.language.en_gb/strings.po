@@ -41,7 +41,7 @@ msgid "Recent"
 msgstr ""
 
 msgctxt "#32006"
-msgid "Live TV"
+msgid "Live"
 msgstr ""
 
 msgctxt "#32007"
@@ -53,8 +53,8 @@ msgid "Topics"
 msgstr ""
 
 msgctxt "#32009"
-msgid "Programs"
-msgstr ""
+msgid "Shows"
+msgstr "Shows"
 
 msgctxt "#32010"
 msgid "Settings"
@@ -106,4 +106,8 @@ msgstr ""
 
 msgctxt "#32022"
 msgid "Are you sure?"
+msgstr ""
+
+msgctxt "#32023"
+msgid "Podcast"
 msgstr ""
